@@ -22,10 +22,12 @@ This is a Power BI project that analyzes over 3 lakh trade records and crypto ma
 
 ## 📷 Dashboard Preview
 
-| Home Page | PnL Summary | Sentiment View |
-|-----------|-------------|----------------|
+| Home Page | 
+
 | ![](screenshots/home_page.png)![image](https://github.com/user-attachments/assets/e4258651-c401-4ddf-9b90-b677cce25e03)
+| PnL Summary |
  | ![](screenshots/pnl_summary.png) ![image](https://github.com/user-attachments/assets/adb96ea2-761f-47bd-b18f-770ae14d8018)
+  | Sentiment View |
 | ![](screenshots/sentiment_view.png) ![image](https://github.com/user-attachments/assets/8b72038f-6b80-48fc-a3ca-7b02dfe6f30c)
 |
 
