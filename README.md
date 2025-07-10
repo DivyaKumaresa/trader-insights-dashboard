@@ -52,6 +52,9 @@ TradeHour = HOUR('Trades'[Timestamp])
 - `screenshots/`: Dashboard images  
 - `summary.pdf`: Report slide (optional)
 
+📥 [Download Power BI Project (.zip)]https://drive.google.com/file/d/1aHo37L_9XaiA03KwbBVtVs2X3af3A0/view?usp=sharing  
+*Note: Download and extract the `.zip`, then open the `.pbix` file in Power BI Desktop.*
+
 ## 👩‍💻 Author
 
 **Divya Kumaresan**  
