@@ -25,7 +25,9 @@ This is a Power BI project that analyzes over 3 lakh trade records and crypto ma
 | Home Page | PnL Summary | Sentiment View |
 |-----------|-------------|----------------|
 | ![](screenshots/home_page.png)![image](https://github.com/user-attachments/assets/e4258651-c401-4ddf-9b90-b677cce25e03)
- | ![](screenshots/pnl_summary.png) | ![](screenshots/sentiment_view.png) |
+ | ![](screenshots/pnl_summary.png) ![image](https://github.com/user-attachments/assets/adb96ea2-761f-47bd-b18f-770ae14d8018)
+| ![](screenshots/sentiment_view.png) ![image](https://github.com/user-attachments/assets/8b72038f-6b80-48fc-a3ca-7b02dfe6f30c)
+|
 
 ## 🛠 Tools Used
 
@@ -43,4 +45,4 @@ This is a Power BI project that analyzes over 3 lakh trade records and crypto ma
 
 **Divya Kumaresan**  
 📧 divyakumaresan2000@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/your-profile) *(Update with your actual link)*
+[LinkedIn](https://www.linkedin.com/in/divyakumaresan) 
